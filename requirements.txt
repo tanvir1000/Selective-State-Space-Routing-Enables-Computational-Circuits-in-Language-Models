@@ -1,0 +1,13 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch==2.5.0+cu121
+transformers==4.52.3
+typing
+numpy
+huggingface-hub==0.33.1
+pandas
+matplotlib
+seaborn
+wandb
+tqdm
+torch_geometric
+-e .
