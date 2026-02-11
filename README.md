@@ -59,6 +59,4 @@ python benchmark/state_space_2.8b.py
 
 > This will execute the all models benchmarking script using the installed framework.
 
-## Contact
 
-For questions or support, contact **MD Azizul Hakim** at `azizulhakim8291@gmail.com`.
